@@ -1,7 +1,7 @@
 # PipeControllerII
 one class file game
 
-Sometimes on Friday at work we write games :) Every developer writes his little game applcation.
+Sometimes on Friday at work we write games :) Every developer writes his little game application.
 
 All the games are small so that we can secretly embed them into our main application.
 
