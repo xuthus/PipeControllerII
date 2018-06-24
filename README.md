@@ -14,3 +14,7 @@ Rules of the game:
 Application uses global leader board, you can install your own board - just copy `pipes.php` to any php-enabled web server.
 
 Have fun!
+
+Screenshot:
+
+![screenshot](https://github.com/xuthus/PipeControllerII/blob/master/screenshot1.png?raw=true)
